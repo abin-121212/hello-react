@@ -1,0 +1,16 @@
+ .Cards{
+
+  box-shadow: 1cap;
+  height: auto;
+  border: 1px solid;
+  color: rgb(83, 83, 83);
+  text-align: center;
+  margin-bottom: 50px;
+ }
+ .Cards .Card-title{
+    font: 100;
+    font-style: arial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+
+}
